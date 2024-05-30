@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T11:02:47.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BfyU4Y2GBDWEHha1kb7q" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T11:22:37.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fOjhrHAV2_s3VHJ0ZEQz" version="24.4.4" type="github">
   <diagram name="Page-1" id="t1qKiGXEgo12qIS3sf51">
     <mxGraphModel dx="1570" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,8 +63,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q56G1ZNLZWHPEf65ZzzL-21" value="AD" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
-          <mxGeometry x="130" y="490" width="43.75" height="40" as="geometry" />
+        <mxCell id="q56G1ZNLZWHPEf65ZzzL-21" value="Entra ID" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="43.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
